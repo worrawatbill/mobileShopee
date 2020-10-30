@@ -1,1 +1,2 @@
 git init 
+git remote add origin https://github.com/worrawatbill/mobileshopee.git
